@@ -1,10 +1,12 @@
 # [Star Peaces](https://operarioribeiro.github.com/StarPeaces)
-![image](https://github.com/operarioribeiro/StarPeaces/blob/main/Star%20Peaces.png)
-_"Ad Astra Pax."_
+
+🌐 _"Ad Astra Pax."_
 
 ## Open Project:
 
 **Star Peaces** is an [open source](https://en.wikipedia.org/wiki/Open_source) [collaborative fiction](https://en.wikipedia.org/wiki/Collaborative_fiction) [engine](https://en.wikipedia.org/wiki/Game_engine) for [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) and [fictional science](https://academic.oup.com/minnesota-scholarship-online/book/19920/chapter-abstract/178827813) [fan-fiction](https://en.wikipedia.org/wiki/Fan_fiction) based on the [cosmology](https://en.wikipedia.org/wiki/Cosmology) [scientific methodology](https://en.wikipedia.org/wiki/Scientific_method) [scientific communication](https://en.wikipedia.org/wiki/Scientific_communication) [nonviolence](https://en.wikipedia.org/wiki/Nonviolence) [space culture of peace](https://en.wikipedia.org/wiki/Culture_of_Peace). Its purpose is to contribute to safeguard our earthling [United Nations Office of Outer Space Affairs(UNOOSA)](https://en.wikipedia.org/wiki/United_Nations_Office_for_Outer_Space_Affairs), [United Nations Committee on the Peaceful Uses of Outer Space (COPUOS)](https://en.wikipedia.org/wiki/United_Nations_Committee_on_the_Peaceful_Uses_of_Outer_Space),  [international space law](https://en.wikipedia.org/wiki/Space_law), [Planetary Society](https://en.wikipedia.org/wiki/The_Planetary_Society), and [International Space Station (ISS)](https://en.wikipedia.org/wiki/International_Space_Station) as [common heritages of humanity](https://en.wikipedia.org/wiki/Common_heritage_of_humanity).
+
+![image](https://github.com/operarioribeiro/StarPeaces/blob/main/Star%20Peaces.png)
 
 ## Open Methodology:
 
