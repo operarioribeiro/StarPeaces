@@ -1,6 +1,6 @@
 # [Star Peaces](https://operarioribeiro.github.com/StarPeaces)
 
-🌐 _"Ad Astra Pax."_
+> _"Ad Astra Pax."_
 
 ## Open Project:
 
