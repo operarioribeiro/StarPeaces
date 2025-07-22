@@ -24,4 +24,6 @@
 ) and [plant layout studies](https://en.wikipedia.org/wiki/Plant_layout_study).
 - Publication of all [cultural artifacts](https://en.wikipedia.org/wiki/Cultural_artifact), like stories and games, as [open access](https://en.wikipedia.org/wiki/Open_access) [open educational resources (OER)](https://en.wikipedia.org/wiki/Open_educational_resources).
 
+## Open License:
+
 © Licensed under [Nonviolent Nonprofit Open Education License (NNOEL)](https://dx.doi.org/10.17504/protocols.io.bp2l6zkbzgqe/v1).
