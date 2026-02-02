@@ -1,4 +1,4 @@
-# [Star Peaces](https://operarioribeiro.github.com/StarPeaces)
+# [Star Peaces](https://github.com/operarioribeiro/StarPeaces)
 
 > _"Ad Astra Pax."_
 
